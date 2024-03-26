@@ -23,5 +23,6 @@ public class Main {
         System.out.println(driver.getTitle());
         System.out.println(driver.getCurrentUrl());
         driver.close();
+
     }
 }

@@ -1,9 +1,6 @@
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
+package TestingCode;
 
-public class SelIntroduction {
+public class TestingCodeStructure {
     public static void main(String[] args) {
     //Invoking Browser
     //Chrome - ChromeDriver exten->Methods close get

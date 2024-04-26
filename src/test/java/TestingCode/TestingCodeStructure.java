@@ -1,5 +1,4 @@
 package TestingCode;
-
 public class TestingCodeStructure {
     public static void main(String[] args) {
     //Invoking Browser

@@ -3,14 +3,11 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-
 import java.util.Set;
-
 class PageLogin {
     public static void main(String[] args) {
 
-        //System.setProperty("webdriver.chrome.driver", "C:\\Users\\Shashi Bhushan\\Downloads\\chrome-win64\\chrome-win64\\chromedriver.exe");
-
+        System.setProperty("Webdriver.chrome.driver", "C:\\Users\\Shashi Bhushan\\Desktop\\chrome-win64\\chrome-win64\\chromedriver.exe");
         WebDriver driver =  new ChromeDriver();
         driver.get("https://moeving.club/login");
         driver.getTitle();

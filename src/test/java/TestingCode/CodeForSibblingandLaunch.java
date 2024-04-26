@@ -4,10 +4,9 @@ public class CodeForSibblingandLaunch {
 
 
 
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         //TODO Auto-generated method stub
-//        System.setProperty("webdriver.chrome.driver", "/Users/rahulshetty/Documents/chromedriver");
+        //System.setProperty("Webdriver.chrome.driver", "C:\\Users\\Shashi Bhushan\\Desktop\\chrome-win64\\chrome-win64\\chromedriver.exe");
 //
 //        WebDriver driver = new ChromeDriver();
 //
